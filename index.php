@@ -1,1 +1,5 @@
-ls
+<?php
+
+echo "hallo Wereld";
+
+?>
